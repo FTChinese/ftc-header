@@ -1,6 +1,6 @@
 {
   "name": "@ftchinese/ftc-header",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "FTC Header",
   "main": "main.js",
   "scripts": {
